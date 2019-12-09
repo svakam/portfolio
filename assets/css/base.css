@@ -177,7 +177,29 @@
 
       #main > section.dark h2, #main > section.dark h3, #main > section.dark h4, #main > section.dark h5, #main > section.dark h6 {
         color: inherit;
-      }
+			}
+			
+			/* video */
+			#myVideo {
+				width: 90%;
+				opacity: 0.9;
+				position: relative;
+				left: 4%;
+				z-index: 0;
+			}
+			#topcontainer {
+				position: relative;
+			}
+			#overlaydesc {
+				position: absolute;
+				top: 35%;
+				left: 29%;
+				width: 70%;
+				z-index: 1;
+			}
+			#div.top {
+				width: 1%;
+			}
 
       #main > section.dark strong {
         color: #fff;
@@ -196,12 +218,11 @@
     #main > section.cover {
       padding: 10em 0;
       background-size: cover;
-      background-position: center center;
+      background-position: center;
     }
 
     #main > section.one {
       background-color: #81918E;
-      background-image: url("../../images/banner.jpg");
     }
 
     #main > section.two {

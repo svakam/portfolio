@@ -19,3 +19,13 @@ Start time: 5pm
 Finish time: 6:30pm
 
 Actual time needed to complete: 30 minutes
+
+### Feature #3: Add functionality
+
+Estimate of time needed to complete: 2 hours
+
+Start time: 10am
+
+Finish time: 12pm
+
+Actual time needed to complete: 30 minutes
