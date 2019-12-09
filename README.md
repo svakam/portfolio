@@ -8,14 +8,14 @@ Start time: 15:40
 
 Finish time: 16:40
 
-Actual time needed to complete: _____
+Actual time needed to complete: 
 
 ### Feature #2: Modify the contents
 
-Estimate of time needed to complete: _____
+Estimate of time needed to complete: 30 minutes
 
-Start time: _____
+Start time: 5pm
 
-Finish time: _____
+Finish time: 6:30pm
 
-Actual time needed to complete: _____
+Actual time needed to complete: 30 minutes
